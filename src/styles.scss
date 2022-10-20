@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0
+}
+
+// Save 3rd party libraries in the vendor folder instead.
+// (@see Sass 7-1 patters)
+.color-picker {
+  border: none !important;
+}
